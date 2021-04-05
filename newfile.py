@@ -1,0 +1,7 @@
+name=Bala Faisal                            department=Computer Science                  print(name)                                                       print(department)
+scare = Boo                                                      print(scare)                         
+a=5                                                                     b=4      a+b                                                        sum=(a+b)                                                       print(sum)                                                        sum=c                                                               print(a)b,c)                                                       or you can prove them one by one.            
+12/5                                                                  =24                                                                    24=c                                                                  print(c)   
+c=2+5                                                                print(c)
+8%3
+Y=Z                                                                     Y=4                                                                    print("y*z=y*z)                                                 print("z+y=,z+y)                                                print(y*z*z+y)                                                  Output=34
